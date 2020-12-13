@@ -1,0 +1,35 @@
+[
+    {
+        "Name": "alice",
+        "Age": 20,
+        "Salary": 3000,
+        "Gender": 0,
+        "Hobbies": [
+            "看工程book",
+            "喝水",
+            "smoke 中华"
+        ]
+    },
+    {
+        "Name": "bob",
+        "Age": 30,
+        "Salary": 2000,
+        "Gender": 1,
+        "Hobbies": [
+            "看女的",
+            "喝牛奶",
+            "smoke 10￥"
+        ]
+    },
+    {
+        "Name": "tom",
+        "Age": 31,
+        "Salary": 2500,
+        "Gender": 1,
+        "Hobbies": [
+            "吃东西",
+            "喝水笔",
+            "说 english"
+        ]
+    }
+]

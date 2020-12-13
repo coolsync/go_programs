@@ -1,0 +1,14 @@
+{
+    "name": "sam",
+    "age": "30",
+    "gender": true,
+    "address": {"city": "Guangzhou", "country": "zhongyuan"},
+    "salary": 3000.00,
+    "company": "mic.inc, awz.inc",
+    "post": ["DC", "IC"],
+    "hobbies": ["抽烟", "吃零食", "散步", "看小说"],
+    "colleague": [
+        {"name": "bob", "gender": true},
+        {"name": "alice", "gender": false}
+    ]
+}

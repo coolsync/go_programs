@@ -1,0 +1,11 @@
+<person id="1">
+	<name>
+		<first>bob</first>
+		<last>kai</last>
+	</name>
+	<age>12</age>
+	<Married>false</Married>
+	<City>guangzhou</City>
+	<State>north</State>
+	<!-- Need more details. -->
+</person>

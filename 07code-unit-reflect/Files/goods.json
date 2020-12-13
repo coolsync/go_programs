@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "Rog",
+        "Price": 10000,
+        "Cpu": "Ryzen",
+        "Memory": 16,
+        "Disk": 1024
+    },
+    {
+        "Name": "good tshirt",
+        "Price": 1000,
+        "Gender": 0,
+        "Color": "red",
+        "Size": 40
+    },
+    {
+        "Name": "xunfulang 创酷",
+        "Price": 100000,
+        "Cap": 4,
+        "Power": "全油"
+    }
+]

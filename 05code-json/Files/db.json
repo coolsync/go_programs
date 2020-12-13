@@ -1,0 +1,11 @@
+{
+    "age": 30,
+    "gender": true,
+    "hobbies": [
+        "吃东西",
+        "喝矿泉水",
+        "smokes"
+    ],
+    "name": "sam",
+    "salary": 2000
+}
